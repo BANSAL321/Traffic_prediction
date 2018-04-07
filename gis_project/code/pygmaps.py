@@ -4,7 +4,7 @@ import numpy as np
 ## Google map python wrapper V0.1
 ## 
 ############################################################
-
+#bansal
 class pygmaps:
 
 	def __init__(self, centerLat, centerLng, zoom ):
